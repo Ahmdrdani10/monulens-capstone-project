@@ -52,7 +52,7 @@ The backend is deployed on **Google Cloud Run**, which provides scalable API ser
 
 Below are screenshots of the MonuLens mobile application.
 
-![App Screenshot 1](app.jpg)
+![App Screenshot](app.jpg)
 
 
 ---
@@ -61,7 +61,7 @@ Below are screenshots of the MonuLens mobile application.
 
 Watch the application demo here:
 
-[MonuLens Demo Video](demo.mp4)
+![MonuLens Demo Video](demo.mp4)
 
 ---
 
