@@ -42,7 +42,7 @@ Mobile Application
 Machine Learning Model
 Cloud Backend Infrastructure
 
-![Cloud Architecture](architecture.png)
+![Cloud Architecture](architecture.jpg)
 
 The backend is deployed on **Google Cloud Run**, which provides scalable API services that connect the mobile application with the machine learning model.
 
@@ -52,7 +52,7 @@ The backend is deployed on **Google Cloud Run**, which provides scalable API ser
 
 Below are screenshots of the MonuLens mobile application.
 
-![App Screenshot 1](app1.png)
+![App Screenshot 1](app.jpg)
 
 
 ---
