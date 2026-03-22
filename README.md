@@ -61,7 +61,7 @@ Below are screenshots of the MonuLens mobile application.
 
 Watch the application demo here:
 
-[![MonuLens Demo](logo%20monulens.png)](https://drive.google.com/file/d/1nPiDZxlWOEmKZB0l-3mIH7QlRK1K9tpP/view?usp=sharing)
+[![MonuLens Demo](<img src="logo-monulens.png" width="500"/>)](https://drive.google.com/file/d/1nPiDZxlWOEmKZB0l-3mIH7QlRK1K9tpP/view?usp=sharing)
 
 ---
 
